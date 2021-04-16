@@ -8,29 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://emilianoleixelard.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Entrega 1</title>
-      <link>https://emilianoleixelard.github.io/docs/entrega1/</link>
+      <title>Ejemplo</title>
+      <link>https://emilianoleixelard.github.io/docs/a.ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/entrega1/</guid>
-      <description>Primera Entrega Sillas</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Shortcodes</title>
-      <link>https://emilianoleixelard.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://emilianoleixelard.github.io/docs/ejemplo/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/a.ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://emilianoleixelard.github.io/docs/markdown/</link>
+      <title>Entrega 1</title>
+      <link>https://emilianoleixelard.github.io/docs/b.entrega1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/markdown/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/b.entrega1/</guid>
+      <description>Primera Entrega Sillas</description>
+    </item>
+    
+    <item>
+      <title>Entrega_grupalfinal</title>
+      <link>https://emilianoleixelard.github.io/docs/e.entrega_grupalfinal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/e.entrega_grupalfinal/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo_entrevistas</title>
+      <link>https://emilianoleixelard.github.io/docs/f.encargo_entrevistas/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/f.encargo_entrevistas/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Entrega_grupal1</title>
+      <link>https://emilianoleixelard.github.io/docs/c.entrega_grupal1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/c.entrega_grupal1/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Entrega_personal</title>
+      <link>https://emilianoleixelard.github.io/docs/dentrega_personal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/dentrega_personal/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
