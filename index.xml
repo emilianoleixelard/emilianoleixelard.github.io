@@ -8,65 +8,83 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://emilianoleixelard.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ejemplo</title>
-      <link>https://emilianoleixelard.github.io/docs/a.ejemplo/</link>
+      <title>1.0</title>
+      <link>https://emilianoleixelard.github.io/docs/1.0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/a.ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Entrega 1</title>
-      <link>https://emilianoleixelard.github.io/docs/b.entrega1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://emilianoleixelard.github.io/docs/b.entrega1/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/1.0/</guid>
       <description>Primera Entrega Sillas</description>
     </item>
     
     <item>
-      <title>TutorialesFusion_2.2</title>
-      <link>https://emilianoleixelard.github.io/docs/f.-tutoriales-fusion-360/</link>
+      <title>1.1</title>
+      <link>https://emilianoleixelard.github.io/docs/1.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/f.-tutoriales-fusion-360/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/1.1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Entrega_grupalfinal</title>
-      <link>https://emilianoleixelard.github.io/docs/e.entrega_grupalfinal/</link>
+      <title>2.1</title>
+      <link>https://emilianoleixelard.github.io/docs/2.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/e.entrega_grupalfinal/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/2.1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Encargo_entrevistas</title>
-      <link>https://emilianoleixelard.github.io/docs/f.encargo_entrevistas/</link>
+      <title>2.2</title>
+      <link>https://emilianoleixelard.github.io/docs/2.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/f.encargo_entrevistas/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/2.2/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Entrega_grupal1</title>
-      <link>https://emilianoleixelard.github.io/docs/c.entrega_grupal1/</link>
+      <title>1.2</title>
+      <link>https://emilianoleixelard.github.io/docs/1.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/c.entrega_grupal1/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/1.2/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Entrega_personal</title>
-      <link>https://emilianoleixelard.github.io/docs/dentrega_personal/</link>
+      <title>1.5</title>
+      <link>https://emilianoleixelard.github.io/docs/1.5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://emilianoleixelard.github.io/docs/dentrega_personal/</guid>
+      <guid>https://emilianoleixelard.github.io/docs/1.5/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>2.0</title>
+      <link>https://emilianoleixelard.github.io/docs/2.0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/2.0/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>2.4</title>
+      <link>https://emilianoleixelard.github.io/docs/2.4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/2.4/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>2.5</title>
+      <link>https://emilianoleixelard.github.io/docs/2.5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://emilianoleixelard.github.io/docs/2.5/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
